@@ -1,5 +1,3 @@
-﻿  main.cpp
-C:\Dev\simpleCalculator\simpleCalculator\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Dev\simpleCalculator\simpleCalculator\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Dev\simpleCalculator\simpleCalculator\main.cpp(30): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+﻿  input.cpp
+C:\Dev\simpleCalculator\simpleCalculator\input.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   simpleCalculator.vcxproj -> C:\Dev\simpleCalculator\Debug\simpleCalculator.exe
